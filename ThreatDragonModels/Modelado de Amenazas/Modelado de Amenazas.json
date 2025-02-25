@@ -1,0 +1,40 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "Modelado de Amenazas",
+    "owner": "Programación segura",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Rubén Isaí Alejo Barrientos"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New DIE diagramx",
+        "diagramType": "DIE",
+        "placeholder": "Descripción de nuevo diagrama DIE",
+        "thumbnail": "./public/content/images/thumbnail.die.jpg",
+        "version": "2.3.0",
+        "cells": [],
+        "description": "x"
+      },
+      {
+        "id": 1,
+        "title": "Nuevo diagrama STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Guillermo Vera",
+    "threatTop": 0
+  }
+}
